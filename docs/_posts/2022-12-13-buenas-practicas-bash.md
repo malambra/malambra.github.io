@@ -10,6 +10,8 @@ tags:
   - linux
 ---
 
+Ahí van un compendio de buenas prácticas, bastante sencillas de aplicar, pero que de no estar haciendolo ya, pueden marcar una gran diferencia en la calidad de tus scripts...
+
 #### ¿Que shebang?... #!/usr/bin/env bash  Vs  #!/bin/bash
 Si hablamos de flexibilidad es preferible usar `#!/usr/bin/env bash` , dado que no requiere que el sistema tenga `bash` en `/bin`, solo que este en el path del usuario, si por el contrario hablamos de seguridad, es preferible `#!/bin/bash` dado que un usuario no podría tener un `bash` distinto al del sistema.
 
