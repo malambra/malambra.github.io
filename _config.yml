@@ -17,10 +17,10 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+title: "Celtha.sh"
+description: "Bitácora informática sobre Sistemas, GNU/Linux, Redes ..."
 baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://malambra.github.io/ "# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
@@ -91,9 +91,9 @@ defaults:
 
 # Site Author
 author:
-  name:
+  name: "malambra"
   picture:
-  email:
+  email: "celtha@gmail.com"
   twitter:
   links:
     - title:
