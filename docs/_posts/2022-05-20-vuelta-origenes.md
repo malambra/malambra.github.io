@@ -9,6 +9,8 @@ tags:
 
 Después de 6 años, voy a abandonar el site que tenía contratado y volver al principio.
 
+<!--more-->
+
 No quiero perder los pocos o muchos, según quien lea esto, posts que he subido estos años. Así que voy a ir cargándolos poco a poco, respetando las fechas de publicación, ya que la herramienta de importación no está funcionando todo lo bien que debería.
 
 Es una lástima no poder mantener los comentarios, pero no veo manera de hacerlo.
