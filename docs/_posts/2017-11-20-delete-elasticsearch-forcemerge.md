@@ -25,15 +25,15 @@ Provocamos que se haga un merge de todos los segmentos, creando segmentos de may
 ```
 2.-
 ```markdown
-![/images/segmentos.jpg](/images/segmentos.jpg){: .align-center}
+![images](/docs/images/segmentos.jpg){: .align-center}
 ```
 
 3.-
-![imagen]({{ '/docs/images/segmentos.jpg' | absolute_url }}){: .align-center}
+![imagen]({{'/docs/images/segmentos.jpg' | absolute_url}}){: .align-center}
 
 4.-
 <figure class="align-center">
-  <a href="#"><img src="{{ '/images/segmentos.jpg' | absolute_url }}" alt=""></a>
+  <a href="#"><img src="{{'/docs/images/segmentos.jpg' | absolute_url}}" alt=""></a>
   <figcaption>Look at 580 x 300 <a href="#">getting some</a> love.</figcaption>
 </figure> 
 
