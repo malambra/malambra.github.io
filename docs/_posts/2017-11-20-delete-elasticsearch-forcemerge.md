@@ -20,6 +20,8 @@ Al lanzarlos manualmente:
 Provocamos que se haga un merge de todos los segmentos, creando segmentos de mayor tamaño, en los que no están los datos eliminados.  Este proceso crea un segmento temporal, que ira creciendo hasta tener la totalidad de los datos, antes de realizar el borrado de los segmentos que lo forman y consolidarse… y es aquí donde tenemos el problema….
 
 ![imagen]({{'/docs/images/segmentos.jpg'|absolute_url}}){: .align-center}
+![imagen]({{'https://malambra.github.io/docs/images/segmentos.jpg}}){: .align-center}
+
 
 ![imagen]({'/images/segmentos.jpg'}){: .align-center}
 
