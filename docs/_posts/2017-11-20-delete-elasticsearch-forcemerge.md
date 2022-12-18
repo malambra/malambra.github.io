@@ -19,9 +19,18 @@ Al lanzarlos manualmente:
 ```
 Provocamos que se haga un merge de todos los segmentos, creando segmentos de mayor tamaño, en los que no están los datos eliminados.  Este proceso crea un segmento temporal, que ira creciendo hasta tener la totalidad de los datos, antes de realizar el borrado de los segmentos que lo forman y consolidarse… y es aquí donde tenemos el problema….
 
+1.-
 ```html
 <img src="segmentos.png" class="align-center" alt="">
 ```
+2.-
+```markdown
+![center-aligned-image](segmentos.png){: .align-center}
+```
+
+3.-
+![image-center]({{ '/images/segmentos.png' | absolute_url }}){: .align-center}
+
 
 Si estamos demasiado justos de espacio en disco, no tendremos espacio suficiente para crear este nuevo segmento, y por consiguiente, no podremos liberar el espacio de los registro eliminados en el nuevo segmento.
 En este caso podemos forzar que el merge se realice solo de los segmentos que contienen datos eliminados y no de la totalidad. De este modo, el segmento temporal, será de menor tamaño y podremos realizar la operación y liberar así el espacio en disco.
