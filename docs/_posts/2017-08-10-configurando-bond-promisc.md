@@ -14,6 +14,8 @@ Hace poco he tenido la necesidad, de agregar varias interfaces  en modo promiscu
 
 Ya escribí una pequeña introducción sobre configuración de bond, hace mucho tiempo, en la que se indican los distintos tipos.
 
+<!--more-->
+
 En esta ocasión el modo usado es el **3** o **Broadcast.**
 
 La configuración de la interfaz de bond y de sus interfaces físicas es la siguiente.
