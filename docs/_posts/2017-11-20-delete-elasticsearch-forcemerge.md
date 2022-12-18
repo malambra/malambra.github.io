@@ -19,16 +19,6 @@ Al lanzarlos manualmente:
 ```
 Provocamos que se haga un merge de todos los segmentos, creando segmentos de mayor tamaño, en los que no están los datos eliminados.  Este proceso crea un segmento temporal, que ira creciendo hasta tener la totalidad de los datos, antes de realizar el borrado de los segmentos que lo forman y consolidarse… y es aquí donde tenemos el problema….
 
-1.-
-![imagen]({{'docs/images/segmentos.jpg'|absolute_url}}){: .align-center}
-
-2.-
-![imagen]({'/images/segmentos.jpg'|absolute_url}){: .align-center}
-
-3.-
-![imagen]({'https://malambra.github.io/docs/images/segmentos.jpg'}){: .align-center}
-
-4.-
 ![imagen]({{'https://malambra.github.io/docs/images/segmentos.jpg'|absolute_url}}){: .align-center}
 
 Si estamos demasiado justos de espacio en disco, no tendremos espacio suficiente para crear este nuevo segmento, y por consiguiente, no podremos liberar el espacio de los registro eliminados en el nuevo segmento.
