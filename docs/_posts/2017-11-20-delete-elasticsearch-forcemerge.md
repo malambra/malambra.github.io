@@ -29,7 +29,7 @@ Provocamos que se haga un merge de todos los segmentos, creando segmentos de may
 ```
 
 3.-
-![/images/segmentos.jpg]({{ '/images/segmentos.jpg' | absolute_url }}){: .align-center}
+![imagen]({{ '/docs/images/segmentos.jpg' | absolute_url }}){: .align-center}
 
 4.-
 <figure class="align-center">
