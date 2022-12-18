@@ -32,10 +32,7 @@ Provocamos que se haga un merge de todos los segmentos, creando segmentos de may
 ![image-center]({{ '/images/segmentos.png' | absolute_url }}){: .align-center}
 
 4.-
-<figure style="width: 300px" class="align-right">
-  <img src="{{ '/images/segmentos.png' | absolute_url }}" alt="">
-  <figcaption>Feels good to be on the right.</figcaption>
-</figure> 
+![[/images/segmentos.png]]
 
 
 Si estamos demasiado justos de espacio en disco, no tendremos espacio suficiente para crear este nuevo segmento, y por consiguiente, no podremos liberar el espacio de los registro eliminados en el nuevo segmento.
