@@ -31,6 +31,12 @@ Provocamos que se haga un merge de todos los segmentos, creando segmentos de may
 3.-
 ![image-center]({{ '/images/segmentos.png' | absolute_url }}){: .align-center}
 
+4.-
+<figure style="width: 300px" class="align-right">
+  <img src="{{ '/images/segmentos.png' | absolute_url }}" alt="">
+  <figcaption>Feels good to be on the right.</figcaption>
+</figure> 
+
 
 Si estamos demasiado justos de espacio en disco, no tendremos espacio suficiente para crear este nuevo segmento, y por consiguiente, no podremos liberar el espacio de los registro eliminados en el nuevo segmento.
 En este caso podemos forzar que el merge se realice solo de los segmentos que contienen datos eliminados y no de la totalidad. De este modo, el segmento temporal, será de menor tamaño y podremos realizar la operación y liberar así el espacio en disco.
