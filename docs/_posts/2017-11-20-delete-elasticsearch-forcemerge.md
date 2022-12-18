@@ -33,7 +33,7 @@ Provocamos que se haga un merge de todos los segmentos, creando segmentos de may
 
 4.-
 <figure class="align-center">
-  <a href="#"><img src="{{ '/images/segmentos.png' | absolute_url }}" alt=""></a>
+  <a href="#"><img src="{{ '/images/segmentos.jpg' | absolute_url }}" alt=""></a>
   <figcaption>Look at 580 x 300 <a href="#">getting some</a> love.</figcaption>
 </figure> 
 
