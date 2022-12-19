@@ -1,5 +1,5 @@
 ---
-title: "Conferencias GNU y Derechos de Autor: Richard Stallman y Jorge Cortell"
+title: "Finalizada la segunda Barcamp en Valencia"
 excerpt_separator: "<!--more-->"
 categories:
   - Opinión
