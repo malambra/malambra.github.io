@@ -7,6 +7,7 @@ tags:
   - varios
 ---
 La verdad es que no se muy bien porque ;) pero como tantas otras cosas que hago, hoy sin más he decidido empezar a usar Twitter de modo asiduo a ver lo que dura (otra forma de uso, es la lectura jejeje)
+<!--more-->
 
 Quizas, lo de "no saber porque" no es del todo cierto, creo que más bien ha sido interés por participar en... llamemoslo "algo" que ya es una realidad, un cambio profundo en la forma.... no de comunicación, sino más bien de entender esa comunicación.
 

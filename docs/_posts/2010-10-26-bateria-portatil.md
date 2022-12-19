@@ -9,6 +9,7 @@ tags:
 Hace unos días, llegue al limite y es que la batería de mi portátil **U200-111** parece una pila, y no de duracell precisamente¡¡
 
 Me viene a durar unos 15-20 min, así que el portátil se había convertido en cualquier cosa menos portátil.
+<!--more-->
 
 Decidí llamar al servicio técnico de Toshiba para consultar precios y woalaaaa nada más y nada menos que 199€ caso me da algo. ¡¡ Menuda tomadura de pelo ¡¡
 
