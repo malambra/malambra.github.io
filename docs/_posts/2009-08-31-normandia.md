@@ -18,8 +18,8 @@ La verdad es que no te haces a la idea de lo que supuso ni del esfuerzo realizad
 
 Estas son algunas de las fotos de los sitios mas conocidos que hemos visto (Cementerio Americano, Pointe du Hoc y Saint Mere Eglise, respectivamente.)
 
-![imagen]({{'https://malambra.github.io/docs/images/normandia1.jpg'|absolute_url}}){: .align-rigth}
-![imagen]({{'https://malambra.github.io/docs/images/normandia2.jpg'|absolute_url}}){: .align-left}
+![imagen]({{'https://malambra.github.io/docs/images/normandia1.jpg'|absolute_url}}){: .align-left}
+![imagen]({{'https://malambra.github.io/docs/images/normandia2.jpg'|absolute_url}}){: .align-rigth}
 
 ![imagen]({{'https://malambra.github.io/docs/images/normandia3.jpg'|absolute_url}}){: .align-center}
 
