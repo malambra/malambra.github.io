@@ -12,6 +12,8 @@ tags:
 Este post es más una nota que un post como tal, por su extensión y sobre todo por su función.....
 
 Hace un par de semanas necesité hacer uso del concepto de punteros en bash.
+<!--more-->
+
 La verdad es que no se si lo había usado anteriormente, lo que si sé, es que no recordaba como hacerlo, de ahí esta nota.
 
 El concepto se llama habitualmente referencia indirecta.

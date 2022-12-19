@@ -11,6 +11,7 @@ tags:
 Este post intenta abordar la necesidad que me surgió, de poder hacer un apagado ordenado de la RaspBerry.
 
 No era viable conectarme a la misma para realizar el apagado, ni tampoco apagar de power en cada ocasión ya que eran demasiadas y corría el riesgo de dejar el sistema inconsistente.
+<!--more-->
 
 Una de las alternativas es la de conectar la Rasp al mundo, para lo que tenemos los puetos "general purpose input output" o GPIO.
 

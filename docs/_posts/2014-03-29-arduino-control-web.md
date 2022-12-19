@@ -11,6 +11,7 @@ tags:
 Hoy, a petición de un amigo, he recuperado una prueba de concepto que hice tiempo atrás sobre arduino.
 
 Se trata de controlar salidas de arduino vía web, sirviendo un pequeño form.
+<!--more-->
 
 Pretendía aplicar esto para domotizar la casa, pero por distintos motivos no seguí con el proyecto.
 
