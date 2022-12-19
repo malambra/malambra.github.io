@@ -6,7 +6,8 @@ categories:
 tags:
   - varios
 ---
-ada simplemente comentar las primeras impresiones del nuevo juguete.
+Nada simplemente comentar las primeras impresiones del nuevo juguete.
+
 He adquirido una Htc Desire, que aún siendo una pasada de "cacharito", ya no es de los más nuevos del mercado, así lo indica su precio (verificarlo en las operadoras de turno.)
 <!--more-->
 
