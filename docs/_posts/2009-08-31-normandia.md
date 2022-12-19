@@ -21,6 +21,8 @@ Estas son algunas de las fotos de los sitios mas conocidos que hemos visto (Ceme
 ![imagen]({{'https://malambra.github.io/docs/images/normandia1.jpg'|absolute_url}}){: .align-left}
 ![imagen]({{'https://malambra.github.io/docs/images/normandia2.jpg'|absolute_url}}){: .align-rigth}
 
+test
+
 ![imagen]({{'https://malambra.github.io/docs/images/normandia3.jpg'|absolute_url}}){: .align-center}
 
 
