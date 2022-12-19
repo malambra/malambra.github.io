@@ -22,28 +22,33 @@ Así que para tener una opinión mas formada he decidido tomar un muestreo cada 
 
 **Gráficas:**
 *21 / 22 Agosto 2014*
-![imagen]({{'https://malambra.github.io/docs/images/21_08_2014.jpg'|absolute_url}}){: .align-left}
-![imagen]({{'https://malambra.github.io/docs/images/22_08_2014.jpg'|absolute_url}}){: .align-rigth}
+
+![imagen]({{'https://malambra.github.io/docs/images/grafica_21_08_2014.jpg'|absolute_url}}){: .align-left}
+![imagen]({{'https://malambra.github.io/docs/images/grafica_22_08_2014.jpg'|absolute_url}}){: .align-rigth}
    
 *23 / 24 Agosto 2014*
-![imagen]({{'https://malambra.github.io/docs/images/23_08_2014.jpg'|absolute_url}}){: .align-left}
-![imagen]({{'https://malambra.github.io/docs/images/24_08_2014.jpg'|absolute_url}}){: .align-rigth}
+
+![imagen]({{'https://malambra.github.io/docs/images/grafica_23_08_2014.jpg'|absolute_url}}){: .align-left}
+![imagen]({{'https://malambra.github.io/docs/images/grafica_24_08_2014.jpg'|absolute_url}}){: .align-rigth}
    
 *25 / 26 Agosto 2014*
-![imagen]({{'https://malambra.github.io/docs/images/25_08_2014.jpg'|absolute_url}}){: .align-left}
-![imagen]({{'https://malambra.github.io/docs/images/26_08_2014.jpg'|absolute_url}}){: .align-rigth}
+
+![imagen]({{'https://malambra.github.io/docs/images/grafica_25_08_2014.jpg'|absolute_url}}){: .align-left}
+![imagen]({{'https://malambra.github.io/docs/images/grafica_26_08_2014.jpg'|absolute_url}}){: .align-rigth}
    
 *27 / 28 Agosto 2014*
-![imagen]({{'https://malambra.github.io/docs/images/27_08_2014.jpg'|absolute_url}}){: .align-left}
-![imagen]({{'https://malambra.github.io/docs/images/28_08_2014.jpg'|absolute_url}}){: .align-rigth}
+
+![imagen]({{'https://malambra.github.io/docs/images/grafica_27_08_2014.jpg'|absolute_url}}){: .align-left}
+![imagen]({{'https://malambra.github.io/docs/images/grafica_28_08_2014.jpg'|absolute_url}}){: .align-rigth}
    
 Se puede ver que la temperatura media es de unos 60ºC y que hay picos de las 10h a las 12h los cuales tienen su explicación… , ya que es el momento en que el sol incide sobre las raspberry por la ventana. Los días que recuerdo tapar la luz no existen estos picos.
 
 Por otro lado he colocado un ventilador el cual puedo encender o parar con un interruptor.  Tras dejar un día completo el ventilador funcionando la caída de temperatura es muy alta…
 
 *29 / 30 Agosto 2014 ( Ventilador ON )*
-![imagen]({{'https://malambra.github.io/docs/images/29_08_2014.jpg'|absolute_url}}){: .align-left}
-![imagen]({{'https://malambra.github.io/docs/images/30_08_2014.jpg'|absolute_url}}){: .align-rigth}
+
+![imagen]({{'https://malambra.github.io/docs/images/grafica_29_08_2014.jpg'|absolute_url}}){: .align-left}
+![imagen]({{'https://malambra.github.io/docs/images/grafica_30_08_2014.jpg'|absolute_url}}){: .align-rigth}
    
 La caída es de unos 20ºC (33%) aproximadamente. Es así como debería estar siempre.
 
