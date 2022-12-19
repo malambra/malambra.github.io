@@ -14,9 +14,12 @@ Este proceso como todos los de tunning que he visto, se trata de iterar las vece
 iteración (n-1) donde obtuvimos la última mejora.
 <!--more-->
 
-El proceso a iterar consta de 3 partes básicamente.. (Toma de datos | Configuración | Toma de datos y Análisis)
+El proceso a iterar consta de 3 partes básicamente.. 
+- Toma de datos
+- Configuración
+- Toma de datos y Análisis
 
-Ya sabemos todos, que lo primero es medir.... lo que no se puede medir no se puede mejorar. ( **Lord Kelvin** , aunque hay bastante discusión sobre esto.)
+Ya sabemos todos, que lo primero es medir... lo que no se puede medir no se puede mejorar. (**Lord Kelvin** , aunque hay bastante discusión sobre esto.)
 
 ## 1.- Toma de datos Inicial.
 
