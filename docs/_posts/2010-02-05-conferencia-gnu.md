@@ -7,6 +7,7 @@ tags:
   - varios
 ---
 Esta semana la cosa ha ido de conferencias...
+<!--more-->
 
 El Jueves día 4, me enteré de que se daba una conferencia en la facultad de informática, sobre **Software libre de la mano de Richard Stallman** y decidí..., ya que en la anterior ocasión aún como estudiante de la UPV no pude asistir, esta vez iba a cambiar mi tarde en el curro de modo que pudiera asistir.
 

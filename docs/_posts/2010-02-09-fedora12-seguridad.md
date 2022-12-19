@@ -8,6 +8,7 @@ tags:
   - linux
 ---
 Aunque la noticia no es nueva, me parecía interesante tenerla a mano para ocasiones futuras e incluso para revisarla en nuevas versiones como, **Fedora13**
+<!--more-->
 
 El caso es que lo que a muchos, entre los que me incluyo, nos pareció un **error de seguridad bastante importante**, a los señores de RedHat, les pareció que facilitaba la experiencia del usuario.
 
