@@ -15,6 +15,8 @@ Se que no es muy original retomar esto de escribir citando a otro pero me parece
 
 Los datos los tenéis en los enlaces, igual que el cartel del anuncio.
 
+**http://jjmartinez.fedorapeople.org/slides/f12_release_party.pdf**
+
 Si no sale ningún imprevisto nos vemos en la "Release Party" ;)
 
 Suerte con el evento Juanjo.

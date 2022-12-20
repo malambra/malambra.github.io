@@ -20,7 +20,7 @@ La idea es la siguiente, una máquina, hará la función de "maestro" y las dem�
 **1.- Garantizar el acceso mediante ssh.**
 Hay que garantizar el acceso por ssh de la máquina maestro a las demás, para cada usuario. Esto esta explicado en un post anterior. Aquí
 
-**http://celtha.blogspot.com/2008/08/coenxin-mediante-ssh-sin-password.html**
+**https://malambra.github.io/docs/sysadmin/ssh-public-key/**
 
 **2.- Editar el cron de la máquina "maestro"**
 
