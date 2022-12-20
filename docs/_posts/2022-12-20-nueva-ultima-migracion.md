@@ -15,7 +15,8 @@ Así que una vez más, he migrado todos los post, menos mal que no son muchos y 
 
 Espero no haberme comido ningún enlace, etc aunque lo dudo, ya que el proceso ha sido bastante manual. Si algo no está seguira disponible en: **https://celtha.blogspot.com/**
 
-**Nota**
+**Nota:**
+
 Una de las cosas más interesantes y que me da más vergüenza, es haber revisado los post antiguos y leer lo que decía en algunos de ellos. 
 
 Aún así, he decidido migrarlos todos y respetar lo que decían, aunque ahora o no piense lo mismo o no lo contaría así.
