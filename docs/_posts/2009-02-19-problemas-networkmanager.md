@@ -24,7 +24,6 @@ Esto venia pasando desde que se cambió la configuración de red editando los fi
 Una vez arrancada la máquina, con un restart de "network", todo funcionaba correctamente, menos los dns claro, ya que el fichero estaba vacio.
 
 Los scripts de arranque mas relevantes al respecto parecían ser:
-
 ```bash
 S95network
 S99NetworkManager
