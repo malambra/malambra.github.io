@@ -1,5 +1,5 @@
 ---
-title: "Mysql - Procedimiento "Create Database" sin ser admin."
+title: "Mysql - Procedimiento - Create Database - sin ser admin."
 excerpt_separator: "<!--more-->"
 categories:
   - Bases de datos
