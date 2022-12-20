@@ -97,4 +97,4 @@ A partir de aquí se va alternando texto "-" "ºC" con la ejecución de comandos
 
 Uffff, se me olvidaba, el resultado final es este, se que hay mas espectaculares, pero para gustos los colores.
 
-![imagen]({{'https://malambra.github.io/docs/images/conky.jpg'|absolute_url}}){: .align-center}
+![imagen]({{'https://malambra.github.io/docs/images/conky.png'|absolute_url}}){: .align-center}
