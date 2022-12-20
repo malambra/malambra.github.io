@@ -1,5 +1,5 @@
 ---
-title: "HTTP - URL's "escapadas" - Alternativas"
+title: "HTTP - URLs escapadas - Alternativas"
 excerpt_separator: "<!--more-->"
 categories:
   - SysAdmin

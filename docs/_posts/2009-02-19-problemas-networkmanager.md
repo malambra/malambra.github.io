@@ -1,5 +1,5 @@
 ---
-title: "Instalar y Configurar Snort - Centos4.7"
+title: "Problemas con NetworkManager"
 excerpt_separator: "<!--more-->"
 categories:
   - SysAdmin
