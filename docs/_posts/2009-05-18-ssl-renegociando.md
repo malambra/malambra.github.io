@@ -1,5 +1,5 @@
 ---
-title: "SSL - "Sin" y "Con" certificado. Renegociando la conexión"
+title: "SSL - Sin y Con certificado. Renegociando la conexión"
 excerpt_separator: "<!--more-->"
 categories:
   - SysAdmin
