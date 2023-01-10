@@ -154,6 +154,7 @@ Tras la ejecución, no queremos que nuestra imagen pese más de lo necesario, po
 ```bash
 rm -R /root/.cache/trivy && rm /usr/local/bin/trivy
 ```
+
 ## Integración en CI
 Para la integración dentro de nuestra CI, dependerá de que queremos hacer. Por ejemplo, podemos analizar nuestro **dockerfile**, en cada commit de forma que no hagamos nunca, push de una imagen vulnerable. Esto no seria completo ya que, además deberíamos, realizar análisis periódicos, ya que pueden aparecer vulnerabilidades tras haber hecho nuestro push.
 *Ej.*
