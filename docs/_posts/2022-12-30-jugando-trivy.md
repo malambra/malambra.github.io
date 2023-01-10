@@ -1,5 +1,5 @@
 ---
-title: "Jugando con Trivy - Scaneo de imagenes."
+title: "Jugando con Trivy - Scaneo de imágenes."
 excerpt_separator: "<!--more-->"
 categories:
 - SysAdmin
