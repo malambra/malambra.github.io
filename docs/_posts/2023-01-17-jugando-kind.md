@@ -8,6 +8,7 @@ tags:
 - tips
 - linux
 - Kubernetes
+- Kind
 ---
 # Que es Kind
 Según se indica en su web, kind es una herramienta para ejecutar clústers de Kubernetes en local, usando como "nodos", contenedores Docker.
