@@ -1,0 +1,21 @@
+---
+title: "Notas sobre ingress"
+excerpt_separator: "<!--more-->"
+categories:
+- SysAdmin
+- DevOps
+tags:
+- tips
+- linux
+- Kubernetes
+- Ingress
+---
+Desde hace un tiempo estoy usando de forma más intensiva las github action. Estas son algunas notas que me van funcionando...
+<!--more-->
+
+# Por donde empiezo...
+Aunque el mejor punto de partida es revisar la documentación oficial (https://docs.github.com/es/actions/guides), aquí ire poniendo algunos ejemplos o tips que me han ido viniendo bien...
+
+# "Contenerizar" siempre que sea posible.
+Aunque es posible ejecutar
+
