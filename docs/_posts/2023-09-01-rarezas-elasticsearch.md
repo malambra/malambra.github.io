@@ -9,6 +9,7 @@ tags:
 - linux
 - elasticsearch
 ---
+
 Ya son bastante años administrando y tuneando clusters de elasticsearch, aunque este último año, quizá de un modo más `ligth`... y no dejo de encontrarme.... `rarezas`, en esta ocasión, sobre snapshots.
 
 <!--more-->
