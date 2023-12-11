@@ -1,5 +1,5 @@
 ---
-title: "Repaso, nuevos planes y propósitos de enmienda o no :), pero sin ser demasiado duro conmigo mismo..."
+title: "2022 - Repaso, nuevos planes y propósitos de enmienda o no :), pero sin ser demasiado duro conmigo mismo..."
 excerpt_separator: "<!--more-->"
 categories:
 - Opinión
