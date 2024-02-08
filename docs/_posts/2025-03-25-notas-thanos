@@ -1,17 +1,31 @@
 ---
-title: "Notas sobre ingress"
+title: "Notas sobre Thanos"
 excerpt_separator: "<!--more-->"
 categories:
 - SysAdmin
 - DevOps
 tags:
 - tips
-- linux
 - Kubernetes
-- Ingress
+- Metrics
 ---
-Hace poco, pude ver la formación impartida por un compañero, la cual me pareció genial a modo de introducción o incluso a modo de refresco rápido sobre kubernetes. La manera de explicar el concepto de ingress me parecio muy, muy buena, así que de ahí algunas notas que creo útiles para consultas rápidas futuras...
+Hace algun tiempo, tuve la oportunidad de profundizar en el funcionamiento de Thanos, dado que parecia que podia ser la solucion a algunos porblemas que estabamos sufriendo derivados del uso de prometheus en entornos de produccion bastante exigentes...
 <!--more-->
+# Puntos a tratar
+- Que es?
+- motivacion
+- Que aporta?
+  - backups
+  - multiples clientes mismo storage metadatos
+  - pocos recursos vs storage
+    - adelgazamiento prometheus, uso de cache+acceso a storage
+- Componentes
+  - sidecar
+  - querier
+  - Thanos
+  - Thanos storage gateway
+  - Esquema
+- Configuracion 
 
 # Esquema.
 
