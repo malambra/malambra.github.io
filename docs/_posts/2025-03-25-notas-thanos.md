@@ -33,7 +33,7 @@ En nuestro caso teníamos varios problemas que necesitábamos abordar...
   - Thanos Querier --> Estos pods se encargan de atender y distribuir las queries que recibe desde grafana.
   - Thanos storage gateway --> Estos pods se encargan de interactuar con el storage, recuperando o subiendo datos. 
 
-# Configuracion 
+# Configuración 
 
 ## Esquema.
 ![imagen]({{'https://malambra.github.io/docs/images/Esquema_Thanos.png'|absolute_url}}){: .align-center}
