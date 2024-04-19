@@ -95,11 +95,17 @@ author:
   name: "malambra"
   picture:
   email: "celtha@gmail.com"
-  twitter:
+  twitter: mndroid
   links:
-    - title:
-      url:
-      icon:
+    - title: Twitter
+      url: https://twitter.com/mndroid
+      icon: fab fa-twitter-square
+    - title: Instagram
+      url: https://instagram.com/alambramanolo
+      icon: fab fa-instagram
+    - title: GitHub
+      url: https://github.com/malambra
+      icon: fab fa-github-square
 
 # Footer Links
 footer_links:
