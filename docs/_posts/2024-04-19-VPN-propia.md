@@ -54,5 +54,5 @@ docker-compose up -d
 ## Esquema
 Como soy de la opinión que una imagen vale más que 1000 palabras incluyo en esquema de los componentes que también esta en el proyecto. 
 
-![imagen]({{'https://github.com/malambra/VPSHomelabs/blob/master/images/diagrama_contenedores.png'|absolute_url}}){: .align-center}
+![imagen]({{'https://raw.githubusercontent.com/malambra/VPSHomelabs/master/images/diagrama_contenedores.png'|absolute_url}}){: .align-center}
 
