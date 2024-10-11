@@ -79,7 +79,7 @@ Durante este tiempo, creo que he aprendido varias cosas...
 
 # Enlaces
 
-- API: https://api.eventoscomic.com/docs
-- GitHub API: https://github.com/malambra/comicCalendar
-- Web: https://eventoscomic.com
-- GitHub Frontend: https://github.com/Raixs/ComicCalendarWeb
+- API: (https://api.eventoscomic.com/docs)[https://api.eventoscomic.com/docs]
+- GitHub API: (https://github.com/malambra/comicCalendar)[https://github.com/malambra/comicCalendar]
+- Web: (https://eventoscomic.com)[https://eventoscomic.com]
+- GitHub Frontend: (https://github.com/Raixs/ComicCalendarWeb)[https://github.com/Raixs/ComicCalendarWeb]
