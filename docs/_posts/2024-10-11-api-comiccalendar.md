@@ -79,6 +79,17 @@ Durante este tiempo, creo que he aprendido varias cosas...
 
 - Cuando haces una división de responsabilidades, has de ser claro con los alcances y responsabilidades. Trabajar con otras personas, es liberar la toma de decisiones, aunque sin perder la esencia del proyecto... **Tu proyecto inicial deja de ser solo tuyo, para pasar a ser de más personas.**
 
+# Costes iniciales
+El proyecto ha tratado de ser lo más econoóico posible, algunos de los costes y decisiones...
+
+- Infra, VPS backend de 2€ mes
+- Infra frontend GitHub pages, free
+- Dominio, 15€ año
+- Backups free
+- Monitorizacion métricas con grafana cloud, free
+
+Como ya indiqué, segun crezca el proyecto se migraran y mejoraran capas, pero inicialmente con aproximadamente 3€ mes es suficiente.
+
 # Enlaces
 
 - API: [https://api.eventoscomic.com/docs](https://api.eventoscomic.com/docs)
