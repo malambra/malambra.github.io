@@ -2,13 +2,13 @@
 title: "Jugando con Kind - Creando clustrer K8s."
 excerpt_separator: "<!--more-->"
 categories:
-- SysAdmin
-- DevOps
+  - SysAdmin
+  - DevOps
 tags:
-- tips
-- linux
-- Kubernetes
-- Kind
+  - tips
+  - linux
+  - Kubernetes
+  - Kind
 ---
 # Que es Kind
 Según se indica en su web, kind es una herramienta para ejecutar clústers de Kubernetes en local, usando como "nodos", contenedores Docker.

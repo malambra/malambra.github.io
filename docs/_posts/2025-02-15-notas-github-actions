@@ -2,13 +2,13 @@
 title: "Notas sobre ingress"
 excerpt_separator: "<!--more-->"
 categories:
-- SysAdmin
-- DevOps
+  - SysAdmin
+  - DevOps
 tags:
-- tips
-- linux
-- Kubernetes
-- Ingress
+  - tips
+  - linux
+  - Kubernetes
+  - Ingress
 ---
 Desde hace un tiempo estoy usando de forma más intensiva las github action. Estas son algunas notas que me van funcionando...
 <!--more-->

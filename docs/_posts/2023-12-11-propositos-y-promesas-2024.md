@@ -2,9 +2,9 @@
 title: "2023 - Repaso, nuevos planes y propósitos de enmienda o no :), pero sin ser demasiado duro conmigo mismo..."
 excerpt_separator: "<!--more-->"
 categories:
-- Opinión
+  - Opinión
 tags:
-- varios
+  - varios
 ---
 Bueno va llegando la fecha de revisar 2023 y hacer los planteamientos para el 2024...
 <!--more-->

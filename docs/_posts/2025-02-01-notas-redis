@@ -2,11 +2,11 @@
 title: "Notas sobre kustomize"
 excerpt_separator: "<!--more-->"
 categories:
-- SysAdmin
-- DevOps
+  - SysAdmin
+  - DevOps
 tags:
-- tips
-- linux
-- Kubernetes
-- kustomize
+  - tips
+  - linux
+  - Kubernetes
+  - kustomize
 ---

@@ -2,13 +2,13 @@
 title: "Notas sobre Keda"
 excerpt_separator: "<!--more-->"
 categories:
-- SysAdmin
-- DevOps
+  - SysAdmin
+  - DevOps
 tags:
-- tips
-- linux
-- Kubernetes
-- keda
+  - tips
+  - linux
+  - Kubernetes
+  - keda
 ---
 
 Algunas notas que me han servido para entender que es keda y como funciona... 

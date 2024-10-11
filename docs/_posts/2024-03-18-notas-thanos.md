@@ -2,12 +2,12 @@
 title: "Notas sobre Thanos"
 excerpt_separator: "<!--more-->"
 categories:
-- SysAdmin
-- DevOps
+  - SysAdmin
+  - DevOps
 tags:
-- tips
-- Kubernetes
-- Metrics
+  - tips
+  - Kubernetes
+  - Metrics
 ---
 Hace algún tiempo, tuve la oportunidad de profundizar en el funcionamiento de Thanos, dado que parecía que podía ser la solución a algunos problemas que estábamos sufriendo, derivados del uso de prometheus en entornos de producción bastante exigentes...
 Backups, Escalabilidad, etc...

@@ -2,13 +2,13 @@
 title: "Notas sobre ingress"
 excerpt_separator: "<!--more-->"
 categories:
-- SysAdmin
-- DevOps
+  - SysAdmin
+  - DevOps
 tags:
-- tips
-- linux
-- Kubernetes
-- Ingress
+  - tips
+  - linux
+  - Kubernetes
+  - Ingress
 ---
 Hace poco, pude ver la formación impartida por un compañero, la cual me pareció genial a modo de introducción o incluso a modo de refresco rápido sobre kubernetes. La manera de explicar el concepto de ingress me parecio muy, muy buena, así que de ahí algunas notas que creo útiles para consultas rápidas futuras...
 <!--more-->

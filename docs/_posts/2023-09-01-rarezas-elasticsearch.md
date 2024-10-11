@@ -2,12 +2,12 @@
 title: "Problema en ElasticSearch - Snapshots"
 excerpt_separator: "<!--more-->"
 categories:
-- SysAdmin
-- DevOps
+  - SysAdmin
+  - DevOps
 tags:
-- tips
-- linux
-- elasticsearch
+  - tips
+  - linux
+  - elasticsearch
 ---
 
 Ya son bastante años administrando y tuneando clusters de elasticsearch, aunque este último año, quizá de un modo más `ligth`... y no dejo de encontrarme.... `rarezas`, en esta ocasión, sobre snapshots.

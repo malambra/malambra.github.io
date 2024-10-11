@@ -2,14 +2,14 @@
 title: "Notas sobre Blobfuse2"
 excerpt_separator: "<!--more-->"
 categories:
-- SysAdmin
-- DevOps
+  - SysAdmin
+  - DevOps
 tags:
-- tips
-- linux
-- Kubernetes
-- blobfuse2
-- azure
+  - tips
+  - linux
+  - Kubernetes
+  - blobfuse2
+  - azure
 ---
 
 No hace mucho hemos tenido en el trabajo un pequeño susto con los costes derivados de Azure $$$ ... 

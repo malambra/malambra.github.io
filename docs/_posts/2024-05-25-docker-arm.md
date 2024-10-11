@@ -2,11 +2,11 @@
 title: "Docker - Imagenes x86_64 en arquitecturas ARM..."
 excerpt_separator: "<!--more-->"
 categories:
-- SysAdmin
-- DevOps
+  - SysAdmin
+  - DevOps
 tags:
-- docker
-- ARM
+  - docker
+  - ARM
 ---
 Vengo arrastrando algunos problemas, al ejecutar imágenes docker amd64 en equipos con arquitecturas arm en mi caso un M2, ya sea por la imagen en si misma o por algunas versiones de paquetes no compatibles. Por fin lo he hecho funcionar¡¡¡...
 <!--more-->

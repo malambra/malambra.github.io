@@ -2,12 +2,12 @@
 title: "Jugando con Trivy - Scaneo de imágenes."
 excerpt_separator: "<!--more-->"
 categories:
-- SysAdmin
-- DevOps
+  - SysAdmin
+  - DevOps
 tags:
-- tips
-- linux
-- trivy
+  - tips
+  - linux
+  - trivy
 ---
 # Que es trivy
 Es un scaner opensource, de *aquasecurity*, que abarca múltiples tipos de escaneos, desde **vulnerabilidades**, **malas prácticas**, etc, sobre **imágenes de contenedores**, **ficheros de configuración**, repositorios y **clusters o recursos** de **kubernetes**.

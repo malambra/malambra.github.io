@@ -2,9 +2,9 @@
 title: "2022 - Repaso, nuevos planes y propósitos de enmienda o no :), pero sin ser demasiado duro conmigo mismo..."
 excerpt_separator: "<!--more-->"
 categories:
-- Opinión
+  - Opinión
 tags:
-- varios
+  - varios
 ---
 Hace un momento he caído en las fechas en las que estamos, y que dentro de nada, de hecho no se si colgaré este post antes, ya será 2023¡¡ y aunque nunca me ha dado por hacer un post de este tipo, he decidido que este año me apetece.
 <!--more-->

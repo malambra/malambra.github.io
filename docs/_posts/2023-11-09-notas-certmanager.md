@@ -2,13 +2,13 @@
 title: "Notas sobre Cert-Manager"
 excerpt_separator: "<!--more-->"
 categories:
-- SysAdmin
-- DevOps
+  - SysAdmin
+  - DevOps
 tags:
-- tips
-- linux
-- Kubernetes
-- coredns
+  - tips
+  - linux
+  - Kubernetes
+  - coredns
 ---
 Debido a un problema puntual con el proveedor de DNS, he tenido que profundizar en el funcionamiento de cert-manager y como se relaciona con lets-encrypt. Como breve explicación y recordatorio añado esta nota...
 <!--more-->

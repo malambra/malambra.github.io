@@ -2,11 +2,11 @@
 title: "Mi servidor VPN..."
 excerpt_separator: "<!--more-->"
 categories:
-- SysAdmin
-- DevOps
+  - SysAdmin
+  - DevOps
 tags:
-- docker
-- VPN
+  - docker
+  - VPN
 ---
 Hace algún tiempo, trabaje junto con un compañero en un proyecto para levantar de forma rápida un servidor vpn, con administración web. El proyecto quedó bastante curioso, sobre todo por la facilidad de implantación de cara a ponerlo en marcha...
 <!--more-->
