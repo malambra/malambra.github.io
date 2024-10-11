@@ -52,7 +52,9 @@ Llegados a este punto, tomé una serie de decisiones...
 
 # Evolución
 
-Tras estas decisiones y después de bastante esfuerzo durante mi tiempo libre, conseguí tener una API usable, [https://api.eventoscomic.com/docs](https://api.eventoscomic.com/docs)  con los eventos cargados y siendo editables. 
+Tras estas decisiones y después de bastante esfuerzo durante mi tiempo libre, conseguí tener una API usable, con los eventos cargados y siendo editables.
+
+[https://api.eventoscomic.com/docs](https://api.eventoscomic.com/docs)   
 
 Esto en principio ya cubría mis necesidades iniciales... *"centralizar esta información en un único sitio, donde la gente pueda consultar los eventos de un zona según fechas"*
 
