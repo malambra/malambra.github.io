@@ -1,5 +1,5 @@
 ---
-title: "API Eventos de comic - comiccalendar"
+title: "Evolucion de comicplan.com"
 excerpt_separator: "<!--more-->"
 categories:
   - Opinión
