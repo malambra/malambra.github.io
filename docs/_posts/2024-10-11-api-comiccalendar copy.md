@@ -54,7 +54,11 @@ Llegados a este punto, tomé una serie de decisiones...
 
 Tras estas decisiones y después de bastante esfuerzo durante mi tiempo libre, conseguí tener una API usable, con los eventos cargados y siendo editables.
 
-[https://api.eventoscomic.com/docs](https://api.eventoscomic.com/docs)   
+~~[https://api.eventoscomic.com/docs](https://api.eventoscomic.com/docs)~~
+
+**Migrada**
+
+[https://api.comicplan.com/docs](https://api.comicplan.com/docs)
 
 Esto en principio ya cubría mis necesidades iniciales... *"centralizar esta información en un único sitio, donde la gente pueda consultar los eventos de un zona según fechas"*
 
@@ -63,7 +67,7 @@ Decidí comentar con amigos, publicar el código y hacer accesible públicamente
 
 Esta decisión, propicio que un amigo se hiciera cargo de la parte frontend, lo cual ha permitido que de las opiniones de ambos, vaya creciendo tanto las funcionalidades de la API como del frontend...
 
-El resultado... [https://eventoscomic.com](https://eventoscomic.com)
+El resultado... ~~[https://eventoscomic.com](https://eventoscomic.com)~~  [https://comicplan.com](https://comicplan.com)
 
 # Lecciones
 
@@ -92,7 +96,7 @@ Como ya indiqué, segun crezca el proyecto se migraran y mejoraran capas, pero i
 
 # Enlaces
 
-- API: [https://api.eventoscomic.com/docs](https://api.eventoscomic.com/docs)
+- API: ~~[https://api.eventoscomic.com/docs](https://api.eventoscomic.com/docs)~~ --> [https://api.comicplan.com/docs](https://api.comicplan.com/docs)
 - GitHub API: [https://github.com/malambra/comicCalendar](https://github.com/malambra/comicCalendar)
-- Web: [https://eventoscomic.com](https://eventoscomic.com)
+- Web: ~~[https://eventoscomic.com](https://eventoscomic.com)~~ --> [https://comicplan.com](https://comicplan.com)
 - GitHub Frontend: [https://github.com/Raixs/ComicCalendarWeb](https://github.com/Raixs/ComicCalendarWeb)
